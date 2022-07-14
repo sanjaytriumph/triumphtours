@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/triumphtours/static/css/main.c3e53c0d.chunk.css",
+    "main.js": "/triumphtours/static/js/main.c8165ae2.chunk.js",
+    "main.js.map": "/triumphtours/static/js/main.c8165ae2.chunk.js.map",
+    "runtime-main.js": "/triumphtours/static/js/runtime-main.ff4b4223.js",
+    "runtime-main.js.map": "/triumphtours/static/js/runtime-main.ff4b4223.js.map",
+    "static/js/2.d8a71053.chunk.js": "/triumphtours/static/js/2.d8a71053.chunk.js",
+    "static/js/2.d8a71053.chunk.js.map": "/triumphtours/static/js/2.d8a71053.chunk.js.map",
+    "index.html": "/triumphtours/index.html",
+    "precache-manifest.63bb1ca0805de71112fd72c52c203e65.js": "/triumphtours/precache-manifest.63bb1ca0805de71112fd72c52c203e65.js",
+    "service-worker.js": "/triumphtours/service-worker.js",
+    "static/css/main.c3e53c0d.chunk.css.map": "/triumphtours/static/css/main.c3e53c0d.chunk.css.map",
+    "static/js/2.d8a71053.chunk.js.LICENSE.txt": "/triumphtours/static/js/2.d8a71053.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff4b4223.js",
+    "static/js/2.d8a71053.chunk.js",
+    "static/css/main.c3e53c0d.chunk.css",
+    "static/js/main.c8165ae2.chunk.js"
+  ]
+}
